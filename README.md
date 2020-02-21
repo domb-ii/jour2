@@ -6,3 +6,4 @@ D’après ces sources, le président a laissé exploser sa colère contre Joe M
 Mais selon le New York Times, le président a particulièrement été courroucé par la présence d’Adam Schiff, le démocrate qui a dirigé l’enquête parlementaire suite à laquelle le milliardaire républicain a été mis en accusation pour abus de pouvoir et entrave au travail du Congrès.
 
 pour test du stash
+pour test sans commit
