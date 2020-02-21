@@ -7,3 +7,4 @@ Mais selon le New York Times, le président a particulièrement été courroucé
 
 pour test du stash
 pour test sans commit
+pour test stash depuis master
